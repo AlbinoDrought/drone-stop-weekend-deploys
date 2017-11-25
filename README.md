@@ -15,7 +15,7 @@ docker build --rm=true -t albinodrought/drone-stop-weekend-deploys .
 To perform a check, execute the following:
 
 ```bash
-docker run --rm albinodrought/drone-bitbucket-artifacts
+docker run --rm albinodrought/drone-stop-weekend-deploys
 ```
 
 ## Drone usage
